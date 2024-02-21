@@ -30,8 +30,8 @@ function StudentProfile(props) {
 
   const S3_BUCKET = "huskyworks-info6150";
   const REGION = "us-east-1";
-  const ACCESS_KEY = "AKIARMAXFNN2OBCYX5OM";
-  const SECRET_ACCESS_KEY = "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";
+  const ACCESS_KEY = "xxxxxxxxxxxxx";
+  const SECRET_ACCESS_KEY = "xxxxxxxxxxxxxxxxxx";
 
   const config = {
     bucketName: S3_BUCKET,
